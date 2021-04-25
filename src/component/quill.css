@@ -1,0 +1,44 @@
+.quillm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.create-note-btn {
+  margin-top: 5vh;
+  background-color: rgb(26, 170, 26);
+  height: 5vh;
+  width: 13vw;
+  border-radius: 1rem;
+  /* margin: 1rem; */
+  color: rgb(255, 255, 255);
+  outline: none;
+  border: none;
+}
+
+.create-note-btn:hover {
+  background-color: rgb(103, 206, 0);
+}
+
+.react-quill {
+  width: 59vw;
+}
+
+.quill {
+  width: 59vw;
+  height: 70vh;
+  margin-top: 5vh;
+}
+.title input {
+  border: none;
+  border-bottom: 2px solid rgb(103, 206, 0);
+}
+
+.input-title {
+  font-size: 20px;
+}
+
+.title input:focus {
+  outline: none;
+}

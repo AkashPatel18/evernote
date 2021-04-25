@@ -1,0 +1,19 @@
+.notes {
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.notelist {
+  display: flex;
+  overflow-y: scroll;
+  flex-direction: column;
+}
+
+.note-heading {
+  margin-left: 1rem;
+}
+@media only screen and (max-width: 800px) {
+  .notelist {
+    width: 100%;
+  }
+}
