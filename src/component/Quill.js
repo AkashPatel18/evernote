@@ -19,7 +19,7 @@ const Quill = () => {
   };
 
   const updateBody = (e) => {
-    setBody(e.replace(/<[^>]*>?/gm, ""));
+    setBody(e.replace(/<[^>]*>?/gm, " "));
   };
   console.log(body);
 
