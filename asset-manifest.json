@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https;//akashpatel18.github.io/evernote/static/css/main.59cc6b5e.chunk.css",
+    "main.js": "/https;//akashpatel18.github.io/evernote/static/js/main.eed060d7.chunk.js",
+    "main.js.map": "/https;//akashpatel18.github.io/evernote/static/js/main.eed060d7.chunk.js.map",
+    "runtime-main.js": "/https;//akashpatel18.github.io/evernote/static/js/runtime-main.4e829fc4.js",
+    "runtime-main.js.map": "/https;//akashpatel18.github.io/evernote/static/js/runtime-main.4e829fc4.js.map",
+    "static/css/2.5c573378.chunk.css": "/https;//akashpatel18.github.io/evernote/static/css/2.5c573378.chunk.css",
+    "static/js/2.9707b340.chunk.js": "/https;//akashpatel18.github.io/evernote/static/js/2.9707b340.chunk.js",
+    "static/js/2.9707b340.chunk.js.map": "/https;//akashpatel18.github.io/evernote/static/js/2.9707b340.chunk.js.map",
+    "index.html": "/https;//akashpatel18.github.io/evernote/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/https;//akashpatel18.github.io/evernote/static/css/2.5c573378.chunk.css.map",
+    "static/css/main.59cc6b5e.chunk.css.map": "/https;//akashpatel18.github.io/evernote/static/css/main.59cc6b5e.chunk.css.map",
+    "static/js/2.9707b340.chunk.js.LICENSE.txt": "/https;//akashpatel18.github.io/evernote/static/js/2.9707b340.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e829fc4.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.9707b340.chunk.js",
+    "static/css/main.59cc6b5e.chunk.css",
+    "static/js/main.eed060d7.chunk.js"
+  ]
+}
